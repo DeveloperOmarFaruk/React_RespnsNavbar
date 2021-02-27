@@ -1,0 +1,16 @@
+:root {
+    --primary: #009ccc;
+}
+
+.btn {
+    padding: 9px 22px;
+    border-radius: 4px;
+    outline: none;
+}
+
+.btn:hover {
+    padding: 9px 22px;
+    background-color: black;
+    border-radius: 4px;
+    color: white;
+}
